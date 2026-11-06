@@ -1,1 +1,0 @@
-/home/maxim/Документы/Rust_nahui/target/debug/hello_rust: /home/maxim/Документы/Rust_nahui/src/main.rs /home/maxim/Документы/Rust_nahui/src/manager.rs /home/maxim/Документы/Rust_nahui/src/storage.rs /home/maxim/Документы/Rust_nahui/src/task.rs
